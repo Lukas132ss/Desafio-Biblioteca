@@ -22,7 +22,7 @@ O projeto consiste em quatro classes principais:
 
 ## Como Utilizar
 1) Clone o repositório:
-``` git clone https://github.com/seu-usuario/nome-do-repositorio.git ```
+``` git clone https://github.com/Lukas132/Desafio-Biblioteca.git ```
 2) Abra o projeto em sua IDE Java preferida.
 
 Execute o arquivo **Main.java** para testar o sistema. Este arquivo contém um exemplo de uso com a criação de livros, usuários, empréstimos e devoluções.
